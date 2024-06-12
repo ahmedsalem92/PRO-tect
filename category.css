@@ -1,0 +1,8 @@
+.category{
+    box-shadow: 0 4px 8px 0 rgb(255, 255, 255);
+    max-width: 300px;
+    margin: auto;
+    text-align: center;
+    font-family: arial;
+    display: inline-block;
+}
